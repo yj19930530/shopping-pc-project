@@ -1,13 +1,16 @@
 // import Cookies from "js-cookie";
 export default {
-    namespaced: true,
     state: {
-
+        langName: 'ch'
     },
     mutations: {
-
+        changeLang(state, lang) {
+            state.langName = lang;
+        },
     },
-    actions: {
-        
-    }
+    getters: {
+        getLangName(state) {
+            return state.langName;
+        }
+    },
 }

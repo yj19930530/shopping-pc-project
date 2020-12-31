@@ -4,6 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- <meta content="IE=edge">
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <meta content=always name=referrer /> -->
   <meta name="viewport"
     content="width=device-width, user-scalable=yes, initial-scale=0.3, maxmum-scale=1.0, minimum-scale=0.3">
   <link rel="icon" href="<%= BASE_URL %>favicon.ico">
@@ -14,7 +17,7 @@
       var script = document.createElement("script");
       script.src = './mobile.js';
       document.getElementsByTagName('head')[0].appendChild(script);
-    } else{
+    } else {
       var script = document.createElement("script");
       script.src = './flexPc.js';
       document.getElementsByTagName('head')[0].appendChild(script);

@@ -70,6 +70,15 @@
 .fz-30 {
     font-size: .6rem !important;
 }
+.fz-35 {
+    font-size: .7rem !important;
+}
+.fz-40 {
+    font-size: .8rem !important;
+}
+.fz-50 {
+    font-size: 1rem !important;
+}
 
 .mr-10 {
     margin-right: .1rem !important;
@@ -111,7 +120,24 @@
 .mr-t-60 {
     margin-top: .6rem !important;
 }
-
+.mr-t-70 {
+    margin-top: .7rem !important;
+}
+.mr-t-80 {
+    margin-top: .8rem !important;
+}
+.mr-t-90 {
+    margin-top: .9rem !important;
+}
+.mr-t-140 {
+    margin-top: 1.4rem !important;
+}
+.mr-t-160 {
+    margin-top: 1.6rem !important;
+}
+.mr-t-260 {
+    margin-top: 2.6rem !important;
+}
 .mr-l-10 {
     margin-left: .1rem !important;
 }
@@ -139,6 +165,9 @@
 .mr-l-70 {
     margin-left: .7rem !important;
 }
+.mr-l-110 {
+    margin-left: 1.1rem !important;
+}
 
 .mr-b-10 {
     margin-bottom: .1rem !important;
@@ -154,6 +183,12 @@
 }
 .mr-b-50 {
     margin-bottom: .5rem !important;
+}
+.mr-b-60 {
+    margin-bottom: .6rem !important;
+}
+.mr-b-80 {
+    margin-bottom: .8rem !important;
 }
 .fl-cen{
     display: flex;
@@ -189,6 +224,11 @@
     align-items: center;
     flex-direction: column;
 }
+.fl-bc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 .fw-bold {
     font-weight: bold;
 }
@@ -208,6 +248,9 @@
 .fc-ece {
     color: #ECECECFF !important;
 }
+.fc-f0b {
+    color: #F0BD52FF !important;
+}
 .bg-1c-05{
     background: linear-gradient(to right, #1cdcccff, #05c9f7ff);
 }
@@ -217,9 +260,23 @@
 .bg-fff {
     background-color: #ffffff !important;
 }
-.show-none{
-    visibility: hidden;
+.bg-f0b {
+    background-color: #f0bd52ff !important;
 }
-.text-spc{
-    letter-spacing: .06rem;
+@font-face {
+    font-family: sjtfont;
+    src: url("./font-sjt/sjt-font.ttf");
+}
+  @font-face {
+    font-family: appfont;
+    src: url("./font-sjt/appfont.ttf");
+}
+.ff-sjt {
+    font-family: sjtfont;
+}
+.ff-ac {
+    font-family: appfont;
+}
+.show-none {
+    visibility: hidden;
 }

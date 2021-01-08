@@ -2,7 +2,7 @@
   <div id="mobile-container">
     <!-- 首页 -->
     <div class="mobile-one-content">
-      <img class="one-banner" src="http://gw.shcx.trunshare.com/homebanner.png" alt="" />
+      <img class="one-banner" src="http://shcx.gw.trunshare.com/homebanner.png" alt="" />
       <div class="one-detail-info">
         <img class="one-logo" src="../../images/mobile/fff-logo.png" alt="" />
         <div class="one-title-onfo fl-co">
@@ -86,7 +86,7 @@
           <span class="mr-t-10">等…</span>
         </div>
       </div>
-      <img class="three-img-style" src="http://gw.shcx.trunshare.com/mobile-page.png" alt="" />
+      <img class="three-img-style" src="https://shcx.gw.trunshare.com/mobile-page.png" alt="" />
     </div>
     <!-- 特色功能 -->
     <div class="mobile-four-content mr-t-60">
@@ -111,7 +111,7 @@
         <span class="fz-12 mr-t-10"> 为社区居民提供安全、健康、便捷、</span>
         <span class="fz-12 mr-t-10"> 幸福的生活环境。</span>
       </div>
-      <img class="four-banner" src="http://gw.shcx.trunshare.com/mobile-func.png" alt="" />
+      <img class="four-banner" src="https://shcx.gw.trunshare.com/mobile-func.png" alt="" />
       <div>
         <div class="fl-cen mr-b-50">
           <div class="four-left-info">
@@ -172,7 +172,7 @@
       </div>
       <img
         class="mobile-banner-four"
-        src="http://gw.shcx.trunshare.com/mobile2.png"
+        src="https://shcx.gw.trunshare.com/mobile2.png"
         alt=""
       />
     </div>
@@ -255,7 +255,7 @@
         </div>
       </div>
       <div class="six-bottom-content">
-        <img class="juxing-img" src="http://gw.shcx.trunshare.com/juxing.png" alt="" />
+        <img class="juxing-img" src="https://shcx.gw.trunshare.com/juxing.png" alt="" />
         <div class="fl-bt juxing-center">
           <div class="fl-cenc mr-l-70">
             <span class="fz-16 fw-bold">+86 18980941908</span>

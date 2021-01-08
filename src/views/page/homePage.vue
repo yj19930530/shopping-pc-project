@@ -23,7 +23,7 @@
         <img
           :class="[count === 1 ? 'fourth-show' : 'fourth-none']"
           class="first-img-banner"
-          src="http://gw.shcx.trunshare.com/banner1.png"
+          src="http://shcx.gw.trunshare.com/banner1.png"
           alt="banner"
         />
         <div
@@ -136,7 +136,7 @@
         <img
           class="thr-right-img"
           :class="[count === 3 ? 'fourth-show' : 'fourth-none']"
-          src="http://gw.shcx.trunshare.com/mobile-page.png"
+          src="http://shcx.gw.trunshare.com/mobile-page.png"
           alt=""
         />
       </div>
@@ -201,7 +201,7 @@
           </div>
           <img
             class="forth-center-img"
-            src="http://gw.shcx.trunshare.com/mobile-func.png"
+            src="http://shcx.gw.trunshare.com/mobile-func.png"
             alt=""
           />
           <div>
@@ -284,7 +284,7 @@
         <img
           class="five-right-img"
           :class="[count === 5 ? 'fourth-show' : 'fourth-none']"
-          src="http://gw.shcx.trunshare.com/mobile.png"
+          src="http://shcx.gw.trunshare.com/mobile.png"
           alt=""
         />
       </div>
@@ -354,7 +354,7 @@
         <img
           class="six-bottom-banner"
           :class="[count === 6 ? 'fourth-show' : 'fourth-none']"
-          src="http://gw.shcx.trunshare.com/banner2.png"
+          src="http://shcx.gw.trunshare.com/banner2.png"
           alt=""
         />
       </div>
